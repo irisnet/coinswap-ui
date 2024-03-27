@@ -1,0 +1,74 @@
+[
+  {
+    "denom": "ubif",
+    "symbol": "bif",
+    "scale": "6",
+    "minUnit": "ubif",
+    "icon": "",
+    "isBaseToken": true,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  },
+  {
+    "denom": "cat",
+    "symbol": "iriscat",
+    "minUnit": "cat",
+    "scale": "3",
+    "icon": "",
+    "isBaseToken": false,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  },
+  {
+    "denom": "dog",
+    "symbol": "irisdog",
+    "scale": "3",
+    "minUnit": "dog",
+    "icon": "",
+    "isBaseToken": false,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  },
+  {
+    "denom": "kit",
+    "symbol": "kittt",
+    "scale": "6",
+    "minUnit": "kit",
+    "icon": "",
+    "isBaseToken": false,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  },
+  {
+    "denom": "bnbqa",
+    "symbol": "bnbqa",
+    "scale": "0",
+    "minUnit": "bnbqa",
+    "icon": "",
+    "isBaseToken": false,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  },
+  {
+    "denom": "busdqa",
+    "symbol": "busdqa",
+    "scale": "0",
+    "minUnit": "busdqa",
+    "icon": "",
+    "isBaseToken": false,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  }
+]

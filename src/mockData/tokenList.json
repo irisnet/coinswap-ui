@@ -1,0 +1,38 @@
+[
+  {
+    "denom": "bnb",
+    "symbol": "bnb",
+    "scale": "8",
+    "minUnit": "bnb",
+    "icon": "",
+    "isBaseToken": false,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  },
+  {
+    "denom": "busd",
+    "symbol": "busd",
+    "scale": "8",
+    "minUnit": "busd",
+    "icon": "",
+    "isBaseToken": false,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  },
+  {
+    "denom": "uiris",
+    "symbol": "iris",
+    "scale": "6",
+    "minUnit": "uiris",
+    "icon": "",
+    "isBaseToken": true,
+    "balance": "",
+    "iptValue": "",
+    "isFrom": "",
+    "isTo": ""
+  }
+]

@@ -1,0 +1,289 @@
+{
+  "id": "2414780",
+  "name": "Coinswap",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28621257",
+      "name": "withdraw",
+      "font_class": "withdraw1",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "28621250",
+      "name": "Deposit",
+      "font_class": "Deposit",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "28298838",
+      "name": "箭头",
+      "font_class": "jiantou1",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "28268878",
+      "name": "withdraw",
+      "font_class": "withdraw",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "28268873",
+      "name": "deposit",
+      "font_class": "deposit",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "28268848",
+      "name": "wallet",
+      "font_class": "wallet",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    },
+    {
+      "icon_id": "27652446",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "23433259",
+      "name": "跳转",
+      "font_class": "tiaozhuan2",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "21649509",
+      "name": "跳转",
+      "font_class": "tiaozhuan1",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "20869632",
+      "name": "Discord",
+      "font_class": "Discord",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "20869627",
+      "name": "Telegram",
+      "font_class": "Telegram",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "20869625",
+      "name": "Medium",
+      "font_class": "Medium",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "20869621",
+      "name": "推特",
+      "font_class": "tuite",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "20789836",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "20584488",
+      "name": "erro",
+      "font_class": "erro",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "20418843",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "20412495",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "20412454",
+      "name": "展开",
+      "font_class": "zhankai1",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "20389479",
+      "name": "交换token",
+      "font_class": "jiaohuantoken",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "20350629",
+      "name": "select",
+      "font_class": "select",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "20350241",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "20345997",
+      "name": "路径",
+      "font_class": "lujing",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "20345978",
+      "name": "成功",
+      "font_class": "chenggong",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "20345977",
+      "name": "失败",
+      "font_class": "shibai",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "20345948",
+      "name": "跳转",
+      "font_class": "tiaozhuan",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "20345932",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "20345930",
+      "name": "交换",
+      "font_class": "jiaohuan",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "20345923",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "20345911",
+      "name": "closedark",
+      "font_class": "closedark",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "20345906",
+      "name": "iobscan",
+      "font_class": "iobscan",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "20345899",
+      "name": "copied",
+      "font_class": "copied",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "20345893",
+      "name": "复制",
+      "font_class": "fuzhi1",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "20345891",
+      "name": "wallet connect",
+      "font_class": "walletconnect",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "20345890",
+      "name": "正序",
+      "font_class": "zhengxu",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "20345880",
+      "name": "倒叙",
+      "font_class": "daoxu",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "20345871",
+      "name": "后退",
+      "font_class": "houtui",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "20345624",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "20345581",
+      "name": "其他选中",
+      "font_class": "xuanzhong",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "20345574",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "20322913",
+      "name": "set",
+      "font_class": "set",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    }
+  ]
+}

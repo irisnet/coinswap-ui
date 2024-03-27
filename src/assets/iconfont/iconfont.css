@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2414780 */
+  src: url('iconfont.woff2?t=1648632311720') format('woff2'),
+       url('iconfont.woff?t=1648632311720') format('woff'),
+       url('iconfont.ttf?t=1648632311720') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-withdraw1:before {
+  content: "\e76c";
+}
+
+.icon-Deposit:before {
+  content: "\e76b";
+}
+
+.icon-jiantou1:before {
+  content: "\e76a";
+}
+
+.icon-withdraw:before {
+  content: "\e768";
+}
+
+.icon-deposit:before {
+  content: "\e767";
+}
+
+.icon-wallet:before {
+  content: "\e766";
+}
+
+.icon-tishi:before {
+  content: "\e764";
+}
+
+.icon-tiaozhuan2:before {
+  content: "\e6f0";
+}
+
+.icon-tiaozhuan1:before {
+  content: "\e6d6";
+}
+
+.icon-Discord:before {
+  content: "\e6c8";
+}
+
+.icon-Telegram:before {
+  content: "\e6c7";
+}
+
+.icon-Medium:before {
+  content: "\e6c6";
+}
+
+.icon-tuite:before {
+  content: "\e6c5";
+}
+
+.icon-caidan:before {
+  content: "\e6c3";
+}
+
+.icon-erro:before {
+  content: "\e6c2";
+}
+
+.icon-jiantou:before {
+  content: "\e6c1";
+}
+
+.icon-jinggao:before {
+  content: "\e6c0";
+}
+
+.icon-zhankai1:before {
+  content: "\e6bf";
+}
+
+.icon-jiaohuantoken:before {
+  content: "\e6be";
+}
+
+.icon-select:before {
+  content: "\e6bd";
+}
+
+.icon-bangzhu:before {
+  content: "\e6bc";
+}
+
+.icon-lujing:before {
+  content: "\e6bb";
+}
+
+.icon-chenggong:before {
+  content: "\e6ba";
+}
+
+.icon-shibai:before {
+  content: "\e6b9";
+}
+
+.icon-tiaozhuan:before {
+  content: "\e6b8";
+}
+
+.icon-jia:before {
+  content: "\e6b6";
+}
+
+.icon-jiaohuan:before {
+  content: "\e6b5";
+}
+
+.icon-guanbi:before {
+  content: "\e6b4";
+}
+
+.icon-closedark:before {
+  content: "\e6b3";
+}
+
+.icon-iobscan:before {
+  content: "\e6b2";
+}
+
+.icon-copied:before {
+  content: "\e6b1";
+}
+
+.icon-fuzhi1:before {
+  content: "\e6b0";
+}
+
+.icon-walletconnect:before {
+  content: "\e6af";
+}
+
+.icon-zhengxu:before {
+  content: "\e6ae";
+}
+
+.icon-daoxu:before {
+  content: "\e6ad";
+}
+
+.icon-houtui:before {
+  content: "\e6ab";
+}
+
+.icon-zhankai:before {
+  content: "\e6aa";
+}
+
+.icon-xuanzhong:before {
+  content: "\e6a7";
+}
+
+.icon-qita:before {
+  content: "\e6a6";
+}
+
+.icon-set:before {
+  content: "\e6a3";
+}
+

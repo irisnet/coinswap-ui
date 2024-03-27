@@ -1,0 +1,90 @@
+[
+  {
+    "name": "IRISnet Token",
+    "symbol": "iris",
+    "denom": "uiris",
+    "scale": 6,
+    "coin_id": "iris-network",
+    "platform": "iris-network",
+    "protocol": 1,
+    "lp_token": "",
+    "price": "0.055",
+    "ibc_transfer_infos": []
+  },
+  {
+    "name": "Binance Token",
+    "symbol": "bnb",
+    "denom": "htltbcbnb",
+    "scale": 8,
+    "coin_id": "bnb-network",
+    "platform": "binance-chain",
+    "protocol": 2,
+    "lp_token": "lpt-1",
+    "price": "377.5",
+    "ibc_transfer_infos": []
+  },
+  {
+    "name": "GRVA Token",
+    "symbol": "grva",
+    "denom": "ugrva",
+    "scale": 6,
+    "coin_id": "Gravity Bridge",
+    "platform": "Gravity Bridge",
+    "protocol": 2,
+    "lp_token": "",
+    "price": "1377.5",
+    "ibc_transfer_infos": []
+  },
+  {
+    "name": "Binance USD",
+    "symbol": "busd",
+    "denom": "htltbcbusd",
+    "scale": 8,
+    "coin_id": "busd-bd1",
+    "platform": "binance-chain",
+    "protocol": 2,
+    "lp_token": "lpt-2",
+    "price": "1",
+    "ibc_transfer_infos": []
+  },
+  {
+    "name": "USDC Token",
+    "symbol": "usdc",
+    "denom": "uusdc",
+    "scale": 6,
+    "coin_id": "Gravity Bridge",
+    "platform": "Gravity Bridge",
+    "protocol": 2,
+    "lp_token": "",
+    "price": "1377.5",
+    "ibc_transfer_infos": []
+  },
+  {
+    "name": "Cosmos",
+    "symbol": "atom",
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "scale": 6,
+    "coin_id": "cosmos",
+    "platform": "cosmos",
+    "protocol": 3,
+    "lp_token": "lpt-3",
+    "price": "0.33",
+    "ibc_transfer_infos": [
+      {
+        "withdraw_info": {
+          "port": "transfer",
+          "channel": "channel-0"
+        },
+        "deposit_info": [
+          {
+            "platform": "cosmos",
+            "denom": "uatom",
+            "port": "transfer",
+            "channel": "channel-91",
+            "chain_id": "cosmoshub-4"
+          }
+        ]
+      }
+    ]
+  }
+]
